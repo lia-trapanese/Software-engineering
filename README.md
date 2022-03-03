@@ -1,6 +1,5 @@
 # Software-engineering project
-"A day at the Museum", a management software for the museum system of Tuscany region, was designed and developed. 
-The problem was implemented through the UML language, developing: 
+Implementation of a software for managing the museum system of the region of Tuscany. The project is carried out using the UML language related to: 
 - Use case diagram
 - Class Diagram
 - Object Diagram
